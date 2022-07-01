@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/esplora"
+        android:enabled="true"
+        android:icon="@drawable/baseline_explore_white_24"
+        android:title="Esplora"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/visita"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="Visita"
+        app:showAsAction="ifRoom"
+        app:itemIconSize="24dp"
+
+        />
+    <item
+        android:id="@+id/profilo"
+        android:enabled="true"
+        android:icon="@drawable/baseline_person_outline_white_24"
+        android:title="Profilo"
+        app:showAsAction="always"
+
+        />
+</menu>

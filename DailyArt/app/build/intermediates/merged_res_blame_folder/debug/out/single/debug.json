@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\layout_home_layout.xml.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_baseline_person_outline_white_24.png.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\drawable-xhdpi\\baseline_person_outline_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_baseline_explore_white_24.png.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\drawable-xhdpi\\baseline_explore_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\layout_login_layout.xml.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_fotoprofilo.jpg.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\drawable-xhdpi\\fotoprofilo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\layout_bottom_navigation_view.xml.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\layout\\bottom_navigation_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\layout_register_layout.xml.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\layout\\register_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_logo_daily_art.png.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\drawable-xxhdpi\\logo_daily_art.png"
+    },
+    {
+        "merged": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\build\\intermediates\\merged_res\\debug\\layout_user_layout.xml.flat",
+        "source": "C:\\Users\\pietr\\Desktop\\DailyArtProject\\DailyArtProject\\app\\src\\main\\res\\layout\\user_layout.xml"
+    }
+]

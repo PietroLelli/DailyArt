@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:minHeight="48dp"
+        android:text="Registrazione"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imgUser"
+        android:layout_width="121dp"
+        android:layout_height="121dp"
+        android:layout_marginTop="18dp"
+        app:srcCompat="@drawable/fotoprofilo" />
+
+    <Button
+        android:id="@+id/btnSelectPhoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:text="Seleziona foto profilo"
+        android:textColor="?attr/text_color" />
+
+    <EditText
+        android:id="@+id/tvUsernameRegister"
+        android:layout_width="320dp"
+        android:layout_height="48dp"
+        android:ems="10"
+        android:layout_marginTop="18dp"
+        android:hint="Username"
+        android:inputType="text"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <EditText
+        android:id="@+id/tvPasswordRegister"
+        android:layout_width="320dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="18dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/tvEmailRegister"
+        android:layout_width="320dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="18dp"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/tvBirthday"
+        android:layout_width="320dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="18dp"
+        android:ems="10"
+        android:hint="Data di nascita"
+        android:textAlignment="center"
+        android:inputType="date"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="18dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:text="Crea Account"
+        android:textColor="?attr/text_color" />
+
+</LinearLayout>

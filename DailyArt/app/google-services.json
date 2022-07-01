@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938172156800",
+    "project_id": "dailyart-a8682",
+    "storage_bucket": "dailyart-a8682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938172156800:android:71d315f881ff45096e0f65",
+        "android_client_info": {
+          "package_name": "com.example.dailyart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938172156800-koriffa005a9pdn2hpiiqssekhqi3et6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO3iOWYkAuC_ChO6dncUf0pyDxHEIAYoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938172156800-koriffa005a9pdn2hpiiqssekhqi3et6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
